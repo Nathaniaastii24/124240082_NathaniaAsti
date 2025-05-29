@@ -12,7 +12,7 @@ struct Buku {
 };
 
 struct Undo {
-    char aksi[10]; // "tambah" atau "hapus"
+    char aksi[10]; // menambah atau menghapus
     Buku data;
     Undo* next;
 };
