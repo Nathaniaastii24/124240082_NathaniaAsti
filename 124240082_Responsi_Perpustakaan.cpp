@@ -215,6 +215,6 @@ int main() {
         
     } while (pilih != 0);
 
-    cout << "Terimakasih telah menggunakan perputakaan";
+    cout << "Terimakasih telah menggunakan perpustakaan";
     return 0;
 }
